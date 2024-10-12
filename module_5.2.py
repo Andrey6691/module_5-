@@ -12,10 +12,10 @@ class House:
 
 First = House('First', 20)
 Second = House('Second', 10)
-# __str__
+
 print(First)
 print(Second)
 
-# __len__
+
 print(len(First))
 print(len(Second))
